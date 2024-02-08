@@ -1,5 +1,5 @@
 # Try2-for-class
-Class example
+Class example changes are done here
 #Tutorial
 -hola
 -hello
